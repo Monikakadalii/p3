@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+body  
+{  
+    margin: 0;  
+    padding: 10;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+}  
+.log{  
+        width: 352px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 20px;  
+        background: #23463f;  
+        border-radius: 20px ;  
+          
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90%;
+  padding: 40px 80px;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(nitw.jpg);
+  height: 100vh;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+
+.text a {
+  display: inline-block;
+  font-size: 1em;
+  background: #fff;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 10px;
+  color: #111;
+  letter-spacing: 2px;
+  transition: 0.2s;
+}
+
+
+
+
+
+
+
+  
+
+
+
+
+
